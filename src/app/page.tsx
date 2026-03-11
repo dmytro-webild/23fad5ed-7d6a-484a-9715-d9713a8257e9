@@ -101,18 +101,18 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Precision Turf Grooming",              description: "Meticulous mowing with striped patterns, seasonal timing, and equipment calibrated for perfection. Every blade matters.",              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/inspired-bearded-male-gardener-shaping-spiral-from-thuja-hedge-by-trimming-outside-side-view_7502-10568.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/inspired-bearded-male-gardener-shaping-spiral-from-thuja-hedge-by-trimming-outside-side-view_7502-10568.jpg" }
+              title: "Precision Turf Grooming",              description: "Meticulous mowing with striped patterns, seasonal timing, and equipment calibrated for perfection. Every blade matters.",              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/inspired-bearded-male-gardener-shaping-spiral-from-thuja-hedge-by-trimming-outside-side-view_7502-10568.jpg?_wi=1" },
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/inspired-bearded-male-gardener-shaping-spiral-from-thuja-hedge-by-trimming-outside-side-view_7502-10568.jpg?_wi=2" }
             },
             {
               id: 2,
-              title: "Estate Edging",              description: "Crisp, clean borders that define your landscape with luxury. Professional edge work that frames your property.",              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/view-robot-tending-maintaining-gardens_23-2151803968.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/view-robot-tending-maintaining-gardens_23-2151803968.jpg" }
+              title: "Estate Edging",              description: "Crisp, clean borders that define your landscape with luxury. Professional edge work that frames your property.",              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/view-robot-tending-maintaining-gardens_23-2151803968.jpg?_wi=1" },
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/view-robot-tending-maintaining-gardens_23-2151803968.jpg?_wi=2" }
             },
             {
               id: 3,
-              title: "Seasonal Nutrient Programs",              description: "Strategic feeding schedules that keep your lawn thriving year-round. Customized nutrient plans for peak growth.",              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/crop-woman-working-garden_23-2147714891.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/crop-woman-working-garden_23-2147714891.jpg" }
+              title: "Seasonal Nutrient Programs",              description: "Strategic feeding schedules that keep your lawn thriving year-round. Customized nutrient plans for peak growth.",              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/crop-woman-working-garden_23-2147714891.jpg?_wi=1" },
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/crop-woman-working-garden_23-2147714891.jpg?_wi=2" }
             }
           ]}
           showStepNumbers={true}
